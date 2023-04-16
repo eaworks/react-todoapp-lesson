@@ -36,3 +36,9 @@ header {
   text-align: center;
   padding: 20px;
 }
+footer {
+  position: absolute;
+  bottom: 0px;
+  left: 50%;
+  transform: translate(-50%,0);
+}
